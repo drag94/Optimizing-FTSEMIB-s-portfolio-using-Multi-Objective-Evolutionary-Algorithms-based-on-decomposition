@@ -2,7 +2,7 @@
 
 The project file is available at [**Project description**](https://github.com/drag94/Optimizing-FTSEMIB-s-portfolio-using-Multi-Objective-Evolutionary-Algorithms-based-on-decomposition/blob/main/Project%20description.pdf).pdf
 
-The code is available upon request at liso.davide@gmail.com
+The code is available upon request. Contact me at liso.davide@gmail.com
 
 ## Abstract
 
@@ -15,12 +15,6 @@ task. In this project, those algorithms that are currently considered
 to be at the state-of-the-art will be used and compared. Specifically,
 MOEA/D-DE, MOEA/D-DEM, MOEA/D-GA, MOEA/D-Levy and
 NSGA-II, will be proposed as numerical methods to optimise a portfolio consisting of all 40 stocks of the FTSE MIB index.
-
-## Experimental results
-
-
-
-
 
 
 
