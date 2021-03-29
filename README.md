@@ -4,9 +4,9 @@ The project file is available at [**Project description**](https://github.com/dr
 
 The code is available upon request. Contact me at liso.davide@gmail.com
 
-## Abstract
+### Abstract
 
-Choosing how much to invest in individual stocks so as to obtain
+> Choosing how much to invest in individual stocks so as to obtain
 a portfolio that maximises returns and minimises risk has always been
 one of the main problems in mathematical finance. A class of opti-
 misation algorithms called Multi-Objective Evolutionary Algorithms
