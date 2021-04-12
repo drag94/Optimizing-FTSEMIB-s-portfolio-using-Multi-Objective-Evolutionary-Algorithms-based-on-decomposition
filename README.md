@@ -13,7 +13,7 @@ based on decomposition (MOEA/D) will be used in order to solve this
 task. In this project, these algorithms that are currently considered
 to be at the state-of-the-art will be used and compared. Specifically,
 MOEA/D-DE, MOEA/D-DEM, MOEA/D-GA, MOEA/D-Levy and
-NSGA-II, will be proposed as numerical methods to optimise a portfolio consisting of all 40 stocks of the FTSE MIB index.
+NSGA-II, will be proposed as numerical methods to optimise a portfolio consisting of all 40 stocks of the FTSE MIB index. The optimisation achieved an outperforming portfolio against its benchmark (+15%)
 
 
 
