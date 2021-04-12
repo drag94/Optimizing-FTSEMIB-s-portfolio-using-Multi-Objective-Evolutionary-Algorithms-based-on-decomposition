@@ -1,4 +1,4 @@
-# Optimising-FTSEMIB-s-portfolio-using-Multi-Objective-Evolutionary-Algorithms-based-on-decomposition
+# Optimising FTSEMIBs portfolio using Multi-Objective Evolutionary Algorithms based on decomposition
 
 The project file is available at [**Project results**](https://github.com/drag94/Optimizing-FTSEMIB-s-portfolio-using-Multi-Objective-Evolutionary-Algorithms-based-on-decomposition/blob/main/Project%20results.pdf).pdf
 
